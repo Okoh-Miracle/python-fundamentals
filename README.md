@@ -49,5 +49,23 @@ Progress
 - [ ] Exceptions
 
 ---
+Current Progress
 
+Georgia Tech — CS1301xI: Computing in Python I
+
+Completed the introductory coursework covering the foundations of programming and procedural programming in Python.
+
+This repository contains practical exercises and projects developed as I continue applying the concepts from the course.
+
+First Program
+
+`lesson01_hello.py`
+
+A simple introductory Python program demonstrating:
+
+- `print()`
+- strings
+- basic program execution
+- writing and running a Python script
+- 
 This repository will continue to grow as I learn and build projects.
